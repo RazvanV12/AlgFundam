@@ -3,4 +3,6 @@ project(AlgFundam)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(AlgFundam main.cpp)
+add_executable(AlgFundam main.cpp
+        GraphUtility/GraphAdjList.cpp
+        GraphUtility/GraphAdjList.h)

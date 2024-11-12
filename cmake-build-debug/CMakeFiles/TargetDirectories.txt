@@ -1,0 +1,3 @@
+C:/Users/Razvan/Desktop/IT/Study Materials/Facultate/AlgFundam - An 2 Sem 1/AlgFundam/cmake-build-debug/CMakeFiles/AlgFundam.dir
+C:/Users/Razvan/Desktop/IT/Study Materials/Facultate/AlgFundam - An 2 Sem 1/AlgFundam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Razvan/Desktop/IT/Study Materials/Facultate/AlgFundam - An 2 Sem 1/AlgFundam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
